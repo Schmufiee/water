@@ -10,3 +10,8 @@ h2 {
   font-size: 30px;
   color: CornflowerBlue;
 }
+
+.middle {
+  max-width: 500px;
+  margin: auto;
+}
