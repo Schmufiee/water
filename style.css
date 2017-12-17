@@ -20,3 +20,9 @@ body {
 background-image: url("kindajean.png");
 }
 
+p {
+  color: LightSlateGrey;
+  font-size: 20px;
+}
+  
+
