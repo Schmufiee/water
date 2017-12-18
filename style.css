@@ -35,3 +35,9 @@ P.blocktext {
 margin-right: auto;
 width: 30em
 }
+
+IMG.displayed {
+display: block;
+margin-left: auto;
+margin-right: auto
+}
