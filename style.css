@@ -43,7 +43,7 @@ margin-right: auto
 }
 
 .zentrierte-tabelle {
-    width: 600px;
+    width: auto;
     margin-left: auto;
     margin-right: auto;
     text-align: auto;
