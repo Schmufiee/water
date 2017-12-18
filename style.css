@@ -31,7 +31,8 @@ body {
 background-image: url("kindajean.png");
 }
 
-.center {
+P.blocktext {
 margin-left: auto;
 margin-right: auto;
+width: 6em
 }
